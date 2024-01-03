@@ -1,0 +1,13 @@
+{"level":"error","message":"Error in usercontroller:data must be a string or Buffer and salt must either be a salt string or a number of rounds","timestamp":"2023-12-17 11:05:22"}
+{"level":"error","message":"Error in usercontroller:data must be a string or Buffer and salt must either be a salt string or a number of rounds","timestamp":"2023-12-17 11:05:51"}
+{"level":"error","message":"Error in usercontroller:logger.sucess is not a function","timestamp":"2023-12-17 11:07:25"}
+{"level":"error","message":"signup failed :user already exist","timestamp":"2023-12-17 11:08:27"}
+{"level":"error","message":"Error in usercontroller:Invalid status code: undefined","timestamp":"2023-12-17 11:08:27"}
+{"level":"error","message":"signup failed :user already exist","timestamp":"2023-12-17 11:09:22"}
+{"level":"error","message":"Error in usercontroller:Invalid status code: undefined","timestamp":"2023-12-17 11:09:22"}
+{"level":"error","message":"signup failed :user already exist","timestamp":"2023-12-17 11:12:49"}
+{"level":"error","message":"signup failed :user already exist","timestamp":"2023-12-17 11:13:21"}
+{"level":"info","message":"signup sucessfull:registered sucessfully","timestamp":"2023-12-17 11:14:33"}
+{"level":"error","message":"Error in usercontroller:Cannot read properties of undefined (reading 'status')","timestamp":"2023-12-17 11:14:33"}
+{"level":"error","message":"signup failed :user already exist","timestamp":"2023-12-17 11:15:08"}
+{"level":"info","message":"login sucessfull:registered sucessfully","timestamp":"2023-12-17 11:41:31"}
